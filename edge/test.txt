@@ -1,0 +1,15 @@
+Time: 1
+RAM - Total: 3926323200 bytes, Used: 214052864 bytes, Available: 3610820608 bytes
+CPU - Usage percentages: 1: 1.0%, 2: 2.0%, 3: 3.0%, 4: 4.0%
+
+Time: 2
+RAM - Total: 3926323200 bytes, Used: 213913600 bytes, Available: 3610968064 bytes
+CPU - Usage percentages: 1: 0.0%, 2: 0.0%, 3: 0.0%, 4: 0.0%
+
+Time: 3
+RAM - Total: 3926323200 bytes, Used: 213913600 bytes, Available: 3610968064 bytes
+CPU - Usage percentages: 1: 0.0%, 2: 0.0%, 3: 0.0%, 4: 0.0%
+
+Time: 4
+RAM - Total: 3926323200 bytes, Used: 213913600 bytes, Available: 3610968064 bytes
+CPU - Usage percentages: 1: 0.0%, 2: 0.0%, 3: 0.0%, 4: 0.0%
